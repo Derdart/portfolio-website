@@ -16,7 +16,7 @@ function FourthPage() {
           class="item"
         >
           <h1>Terminal</h1>
-          <img src="content/terminal.png" alt="" />
+          <img src="./content/terminal.png" alt="" />
         </a>
         <a class="item">
           <h1>Coming soon...</h1>

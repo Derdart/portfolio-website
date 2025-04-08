@@ -13,7 +13,7 @@ function ThirdPage() {
                 target="_blank"
                 href="https://developer.mozilla.org/en-US/docs/Web/HTML"
               >
-                <img className="techicon" src="content/html.png" alt="" />
+                <img className="techicon" src="./content/html.png" alt="" />
               </a>
             </li>
             <li>
@@ -21,7 +21,7 @@ function ThirdPage() {
                 target="_blank"
                 href="https://developer.mozilla.org/en-US/docs/Web/CSS"
               >
-                <img className="techicon" src="content/css.png" alt="" />
+                <img className="techicon" src="./content/css.png" alt="" />
               </a>
             </li>
             <li>
@@ -29,32 +29,32 @@ function ThirdPage() {
                 target="_blank"
                 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
               >
-                <img className="techicon" src="content/js.png" alt="" />
+                <img className="techicon" src="./content/js.png" alt="" />
               </a>
             </li>
             <li>
               <a target="_blank" href="https://react.dev/">
-                <img className="techicon" src="content/react.png" alt="" />
+                <img className="techicon" src="./content/react.png" alt="" />
               </a>
             </li>
             <li>
               <a target="_blank" href="https://tailwindcss.com/">
-                <img className="techicon" src="content/tailwind.png" alt="" />
+                <img className="techicon" src="./content/tailwind.png" alt="" />
               </a>
             </li>
             <li>
               <a target="_blank" href="https://nodejs.org/en">
-                <img className="techicon" src="content/node.png" alt="" />
+                <img className="techicon" src="./content/node.png" alt="" />
               </a>
             </li>
             <li>
               <a target="_blank" href="https://www.figma.com/">
-                <img className="techicon" src="content/figma.png" alt="" />
+                <img className="techicon" src="./content/figma.png" alt="" />
               </a>
             </li>
             <li>
               <a target="_blank" href="https://git-scm.com/">
-                <img className="techicon" src="content/git.png" alt="" />
+                <img className="techicon" src="./content/git.png" alt="" />
               </a>
             </li>
           </ul>
@@ -66,7 +66,7 @@ function ThirdPage() {
         loop
         playsInline
         id="video2"
-        src="content/portfolio.mp4"
+        src="./content/portfolio.mp4"
       ></video>
     </>
   );

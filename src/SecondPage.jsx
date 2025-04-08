@@ -21,7 +21,7 @@ function SecondPage() {
             </p>
           </div>
           <div className="img">
-            <img src="content/webdev.jpg" alt="" />
+            <img src="./content/webdev.jpg" alt="" />
           </div>
         </div>
         <div className="smallwindows">
@@ -34,7 +34,7 @@ function SecondPage() {
               </p>
             </div>
             <div className="img">
-              <img src="content/video-editing.jpg" alt="" />
+              <img src="./content/video-editing.jpg" alt="" />
             </div>
           </div>
           <div id="scrollImage1" className="aboutwindow1">
@@ -45,7 +45,7 @@ function SecondPage() {
               </p>
             </div>
             <div className="img3">
-              <img src="content/3d.jpeg" alt="" />
+              <img src="./content/3d.jpeg" alt="" />
             </div>
           </div>
         </div>
