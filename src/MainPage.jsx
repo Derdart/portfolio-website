@@ -44,7 +44,7 @@ function MainPage() {
           loop
           playsInline
           onLoadedMetadata={handleLoaded}
-          src="./content/vecteezy_minimal-stars-motion-loop-background-for-project-overlay_2016656.mp4"
+          src="./content/stars.mp4"
           type="video/mp4"
         ></video>
       </div>
